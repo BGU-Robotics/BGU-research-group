@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 Welcome to BGU group
       content: Take a look at what we're working on...
       align: center
       background:
